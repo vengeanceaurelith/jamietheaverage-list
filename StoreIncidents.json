@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 6600,
 		"karmatype": "Bad"
 	},
 	{
@@ -71,11 +71,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
@@ -116,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 2500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -136,18 +136,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 550,
 		"karmatype": "Good"
 	},
 	{
@@ -242,17 +237,17 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +257,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -282,7 +277,7 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,7 +291,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
@@ -329,7 +324,22 @@
 		"abr": "berescued",
 		"price": 900,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 68
 }
